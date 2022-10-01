@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amanvashishtha
+- 👋 Hi, I’m @Aman Vashishtha
 - 👀 I’m interested in Blockchain and java
 - 🌱 I’m currently learning Javascript and Solidity
 - 💞️ I’m looking to collaborate on ...
